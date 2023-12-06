@@ -1,6 +1,6 @@
 Name:		texlive-biolett-bst
-Version:	61719
-Release:	2
+Version:	66115
+Release:	1
 Summary:	A BibTeX style for the journal "Biology Letters"
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biolett-bst
