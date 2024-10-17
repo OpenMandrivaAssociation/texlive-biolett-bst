@@ -3,7 +3,7 @@ Version:	66115
 Release:	1
 Summary:	A BibTeX style for the journal "Biology Letters"
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biolett-bst
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biolett-bst
 License:	lppl1
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biolett-bst.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biolett-bst.doc.r%{version}.tar.xz
